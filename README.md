@@ -38,3 +38,7 @@ https://docs.google.com/spreadsheets/d/1n_L-ZQDhsAtsUGmRs1s3KAHGZQ4gVd0K20p6nyYr
 ## License
 
 รวม pako ภายใต้ MIT license ดู pako-LICENSE
+
+## เริ่ม build หลังเชื่อม GitHub
+
+เมื่อหน้า Settings → Builds แจ้งให้ push commit เพื่อเริ่ม build แรก ให้ส่ง commit ใหม่ไปที่ main แล้วตรวจสถานะที่แท็บ Deployments หลัง deploy สำเร็จ เปิด https://yellow-mountain-cb77.pit-jantapan.workers.dev
