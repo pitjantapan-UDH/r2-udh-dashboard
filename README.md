@@ -6,7 +6,7 @@ Dashboard กลุ่มงานเภสัชกรรม โรงพยา
 
 ## นำขึ้น Cloudflare Workers Free
 
-เชื่อม repository นี้กับ Worker `yellow-mountain-cb77` ที่สร้างไว้แล้วใน Cloudflare
+เชื่อม repository นี้กับ Worker `r2-udh` ที่สร้างไว้แล้วใน Cloudflare
 
 - Production branch: `main`
 - Root directory: `/`
@@ -41,4 +41,4 @@ https://docs.google.com/spreadsheets/d/1n_L-ZQDhsAtsUGmRs1s3KAHGZQ4gVd0K20p6nyYr
 
 ## เริ่ม build หลังเชื่อม GitHub
 
-เมื่อหน้า Settings → Builds แจ้งให้ push commit เพื่อเริ่ม build แรก ให้ส่ง commit ใหม่ไปที่ main แล้วตรวจสถานะที่แท็บ Deployments หลัง deploy สำเร็จ เปิด https://yellow-mountain-cb77.pit-jantapan.workers.dev
+เมื่อหน้า Settings → Builds แจ้งให้ push commit เพื่อเริ่ม build แรก ให้ส่ง commit ใหม่ไปที่ main แล้วตรวจสถานะที่แท็บ Deployments หลัง deploy สำเร็จ เปิด https://r2-udh.pit-jantapan.workers.dev
